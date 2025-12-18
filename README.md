@@ -3,7 +3,7 @@
 ## Introduction
 The model considered in this project is inspired by gantry cranes widely used in naval and industrial applications. Starting from a simplified and schematized version of the original system, we derive the nonlinear equations of motion and subsequently linearize them. Once the linearized model is obtained, we analyze controllability and observability, and then implement and test different control strategies.
 
-This work used the model presented in the paper:
+This work uses the model presented in the paper:
 
 > **Robust qLPV Tracking Fault-Tolerant Control of a 3 DOF Mechanical Crane**  
 > Francisco-Ronay López-Estrada, Oscar Santos-Estudillo, Guillermo Valencia-Palomo, Samuel Gómez-Peñate, Carlos Hernández-Gutiérrez  

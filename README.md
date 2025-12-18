@@ -1,5 +1,3 @@
-# GantryCrane-3DoF-Control-SFOI-LQGI
- 
 # 3DoF Gantry Crane Control: SFOI (Pole Placement) and LQGI
 
 ## Introduction
